@@ -1,0 +1,17 @@
+com\wolters_kluwer\automation_framework\utility\reporting\provider\AllureReportingProvider.class
+com\wolters_kluwer\automation_framework\utility\PropertiesReader.class
+com\wolters_kluwer\automation_framework\utility\driver\WebDriverFactory.class
+com\wolters_kluwer\automation_framework\pages\LoginPage.class
+com\wolters_kluwer\automation_framework\pages\object_repository\LoginPageOR.class
+com\wolters_kluwer\automation_framework\pages\CommonOperations.class
+com\wolters_kluwer\automation_framework\utility\driver\WebDriverController.class
+com\wolters_kluwer\automation_framework\utility\reporting\ReportingUtility.class
+com\wolters_kluwer\automation_framework\utility\reporting\provider\ReportingProvider.class
+com\wolters_kluwer\automation_framework\pages\object_repository\EllipsisMenuOR.class
+com\wolters_kluwer\automation_framework\pages\object_repository\CommonOperationsOR.class
+com\wolters_kluwer\automation_framework\pages\object_repository\LoginPageOR$ChangePassword.class
+com\wolters_kluwer\automation_framework\utility\driver\WebDriverController$ReportingConfigurer.class
+com\wolters_kluwer\automation_framework\pages\constants\Constants.class
+com\wolters_kluwer\automation_framework\pages\LoginPage$ChangePassword.class
+com\wolters_kluwer\automation_framework\utility\driver\WebDriverController$Timeouts.class
+com\wolters_kluwer\automation_framework\pages\EllipsisMenu.class

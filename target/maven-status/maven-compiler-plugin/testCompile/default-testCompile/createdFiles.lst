@@ -1,0 +1,4 @@
+com\wolters_kluwer\automation_framework\TestRunner.class
+com\wolters_kluwer\automation_framework\base\TestBase.class
+com\wolters_kluwer\automation_framework\step_definitions\LoginStepDefinitions.class
+com\wolters_kluwer\automation_framework\step_definitions\hooks\WebDriverHooks.class
